@@ -1,2 +1,2 @@
-allow2windows
+Allow2Windows
 =============
